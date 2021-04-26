@@ -12,7 +12,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/blockchain.jpg
+    image: images/hero.svg
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
