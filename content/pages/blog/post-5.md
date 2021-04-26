@@ -9,7 +9,7 @@ tags:
   - Netlify
 image: images/Bitsong.jpg
 image_alt: Post 5 placeholder image
-excerpt: La prima Piattaforma su Blockchain Decentralizzata di Streaming Audio
+excerpt: La prima Piattaforma su Blockchain Decentralizzata di Streaming Audio.
 seo:
   title: Amet Nulla Facilisi Morbi Tempus
   description: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
