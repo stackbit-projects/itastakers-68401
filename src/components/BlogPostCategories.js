@@ -10,7 +10,7 @@ export default class BlogPostCategories extends React.Component {
         let category_len = _.size(categories);
         return (
             <div className={container_class}>
-              <span>In </span>
+              <span></span>
               {
               _.map(categories, (category, category_idx) => {
                   let category_data = getData(this.props.data, category);
