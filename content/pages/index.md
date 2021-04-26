@@ -8,7 +8,7 @@ sections:
       - label: Cosa significa Staking
         url: /features
         style: primary
-      - label: Contact Us
+      - label: Telegram
         url: /contact
         style: secondary
     align: left
