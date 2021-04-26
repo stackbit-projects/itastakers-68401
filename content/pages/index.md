@@ -37,8 +37,9 @@ sections:
             url: /features
             style: secondary
       - title: Sentinel (DVPN)
-        content: |
-          Sentinel Network ,
+        content: >
+          Sentinel Network , Framework Blockchain per lo sviluppo di
+          applicazioni VPN Decentralizzate
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
