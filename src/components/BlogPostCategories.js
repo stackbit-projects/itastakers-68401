@@ -17,6 +17,7 @@ export default class BlogPostCategories extends React.Component {
                   return (
                     category_data.link ? (<React.Fragment key={category_idx + '.1'}>
                       <Link key={category_idx} href={withPrefix(category_data.link)}>{category_data.title}</Link>{(!(category_idx === category_len - 1)) && (', ')}
+
                   )
               })}
             </div>
