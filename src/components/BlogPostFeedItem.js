@@ -38,7 +38,7 @@ export default class BlogPostFeedItem extends React.Component {
                         let author = getData(this.props.data, _.get(post, 'frontmatter.author', null));
                         return (
                           author.link ? (
-                            <span> go to <Link href="{withPrefix(author.link)}{author.first_name} {author.last_name}"</Link></span>
+                            <span> go to <Link href="{withPrefix(author.link)}{author.first_name} {author.last_name}"></Link></span>
                           ) : 
                             <span> visit {author.first_name} {author.last_name}</span>
                         );
