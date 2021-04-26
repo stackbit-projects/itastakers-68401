@@ -25,7 +25,7 @@ sections:
   - type: features_section
     title: Nodi Validatori
     features:
-      - title: Bitsong
+      - title: Bitsong(BTSG)
         content: |
           La prima piattaforma decentralizzata di musica in Streaming.
         align: left
