@@ -54,6 +54,7 @@ sections:
         image_position: right
         actions: []
         type: feature
+        image: images/caring-paprika.jpg
       - title: Desmos (DSM)
         content: |
           Social Network Decentralizzato
