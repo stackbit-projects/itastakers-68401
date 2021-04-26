@@ -37,7 +37,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: lorem-ipsum
+      - title: tttttttttttttttttttttt
         content: >-
           ## Lorem ipsum
 
