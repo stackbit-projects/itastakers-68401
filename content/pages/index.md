@@ -24,19 +24,7 @@ sections:
       background_image_repeat: repeat
   - type: features_section
     title: Nodi Validatori
-    features:
-      - title: Sentinel (DVPN)
-        content: >
-          Sentinel Network , Framework Blockchain per lo sviluppo di
-          applicazioni VPN Decentralizzate
-        align: left
-        image: images/feature.svg
-        image_alt: Feature 2 placeholder image
-        image_position: left
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
+    features: []
   - type: blog_feed_section
     title: What's New
     show_recent: true
