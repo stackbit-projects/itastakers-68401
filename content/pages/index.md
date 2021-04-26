@@ -5,7 +5,7 @@ sections:
     title: ITA Stakers
     subtitle: 'Community italiana Proof of Staking, cryptovalute & Blockchain'
     actions:
-      - label: Learn More
+      - label: Cosa significa Staking
         url: /features
         style: primary
       - label: Contact Us
