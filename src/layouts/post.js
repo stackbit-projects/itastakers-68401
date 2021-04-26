@@ -23,18 +23,7 @@ export default class Post extends React.Component {
                     <BlogPostCategories {...this.props} categories={_.get(this.props, 'page.frontmatter.categories', null)} container_class={'post__meta'} />
                   )}
                   <h1 className="post__title">{_.get(this.props, 'page.frontmatter.title', null)}</h1>
-                  <div className="post__meta">
-                    <span>On <time dateTime={moment(_.get(this.props, 'page.frontmatter.date', null)).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(this.props, 'page.frontmatter.date', null)).strftime('%B %d, %Y')}</time></span>
-                    {_.get(this.props, 'page.frontmatter.author', null) && ((() => {
-                        let author = getData(this.props.data, _.get(this.props, 'page.frontmatter.author', null));
-                        return (
-                          author.link ? (
-                            <span> by <Link href={withPrefix(author.link)}>{author.first_name} {author.last_name}</Link></span>
-                          ) : 
-                            <span> by {author.first_name} {author.last_name}</span>
-                        );
-                    })())}
-                  </div>
+
                 </header>
                 <div className="post__copy">
                   {markdownify(_.get(this.props, 'page.markdown', null))}
