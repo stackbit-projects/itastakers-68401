@@ -36,6 +36,23 @@ sections:
           - label: Telegram Bitsong ITA
             url: /features
             style: secondary
+      - title: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        align: left
+        image_alt: lorem-ipsum
+        image_position: left
+        actions: []
+        type: feature
       - title: Sentinel (DVPN)
         content: >
           Sentinel Network , Framework Blockchain per lo sviluppo di
