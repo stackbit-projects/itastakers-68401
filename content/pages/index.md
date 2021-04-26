@@ -36,7 +36,7 @@ sections:
           - label: Telegram Bitsong ITA
             url: /features
             style: secondary
-      - title: Feature 2
+      - title: Sentinel (DVPN)
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
