@@ -25,17 +25,6 @@ sections:
   - type: features_section
     title: Nodi Validatori
     features:
-      - title: Bitsong(BTSG)
-        content: |
-          La prima piattaforma decentralizzata di musica in Streaming.
-        align: left
-        image: images/bitsong.PNG
-        image_alt: Feature 1 placeholder image
-        image_position: right
-        actions:
-          - label: Telegram Bitsong ITA
-            url: /features
-            style: secondary
       - title: Sentinel (DVPN)
         content: >
           Sentinel Network , Framework Blockchain per lo sviluppo di
