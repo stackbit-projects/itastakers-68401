@@ -40,7 +40,7 @@ export default class BlogPostFeedItem extends React.Component {
                           author.link ? (
                             <span> by <Link href={withPrefix(author.link)}>{author.first_name} {author.last_name}</Link></span>
                           ) : 
-                            <span> visti Medium</span>
+                            <span> visit Medium</span>
                         );
                     })())}
                   </footer>
