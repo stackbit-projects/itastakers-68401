@@ -40,7 +40,7 @@ export default class BlogPostFeedItem extends React.Component {
                           author.link ? (
                             <span> go to Medium</span>
                           ) : 
-                            <span> visit {author.first_name} {author.last_name}</span>
+                            <span></span>
                         );
                     })())}
                   </footer>
