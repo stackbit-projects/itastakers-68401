@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: ITA Stakers
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: 'Community italiana Proof of Staking, cryptovalute & Blockchain'
     actions:
       - label: Learn More
         url: /features
