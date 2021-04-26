@@ -29,7 +29,7 @@ sections:
         content: |
           La prima piattaforma decentralizzata di musica in Streaming.
         align: left
-        image: images/feature.svg
+        image: images/bitsong.PNG
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
