@@ -19,9 +19,6 @@ export default class Post extends React.Component {
                 </div>
                 )}
                 <header className="post__header">
-                  {_.get(this.props, 'page.frontmatter.categories', null) && (
-                    <BlogPostCategories {...this.props} categories={_.get(this.props, 'page.frontmatter.categories', null)} container_class={'post__meta'} />
-                  )}
                   <h1 className="post__title">{_.get(this.props, 'page.frontmatter.title', null)}</h1>
                 </header>
                 <div className="post__copy">
