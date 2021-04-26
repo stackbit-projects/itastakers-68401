@@ -26,19 +26,6 @@ sections:
     title: Nodi Validatori
     show_recent: true
     recent_count: 3
-  - title: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    type: content_section
   - type: cta_section
     title: This Is A CTA
     subtitle: >-
