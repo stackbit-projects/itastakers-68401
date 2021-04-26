@@ -6,7 +6,7 @@ import {getData, Link, withPrefix} from '../utils';
 export default class BlogPostCategories extends React.Component {
     render() {
 }
-            </div>
+           } </div>
         );
     }
 }
