@@ -37,17 +37,6 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: Desmos (DSM)
-        content: |
-          Social Network Decentralizzato
-        align: left
-        image: images/feature.svg
-        image_alt: Feature 3 placeholder image
-        image_position: right
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
   - type: blog_feed_section
     title: What's New
     show_recent: true
