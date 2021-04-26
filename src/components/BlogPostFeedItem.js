@@ -38,7 +38,7 @@ export default class BlogPostFeedItem extends React.Component {
                         let author = getData(this.props.data, _.get(post, 'frontmatter.author', null));
                         return (
                           author.link ? (
-                            <span> go to <Link href="Medium""</Link></span>
+                            <span> go to <Link href="M"</Link></span>
                           ) : 
                             <span> visti {author.first_name} {author.last_name}</span>
                         );
