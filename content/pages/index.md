@@ -3,7 +3,10 @@ title: Home
 sections:
   - type: hero_section
     title: ITA Stakers
-    subtitle: 'Community italiana Proof of Staking, cryptovalute & Blockchain'
+    subtitle: >-
+      La prima community italiana Proof of Staking, cryptovalute & Blockchain.
+      Seguici per rimanere sempre aggiornato riguardo le novità delle chain
+      Cosmos, Polkadot e molto altro.
     actions:
       - label: Cosa significa Staking
         url: /features
